@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Minimal</title>
+    <link>https://luiszamudioindigo.github.io/post/</link>
+    <description>Recent content in Posts on Minimal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Aug 2017 12:33:50 -0500</lastBuildDate>
+    
+	<atom:link href="https://luiszamudioindigo.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://luiszamudioindigo.github.io/post/first-post/</link>
+      <pubDate>Tue, 01 Aug 2017 12:33:50 -0500</pubDate>
+      
+      <guid>https://luiszamudioindigo.github.io/post/first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
